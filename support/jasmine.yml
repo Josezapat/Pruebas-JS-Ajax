@@ -1,0 +1,6 @@
+# spec/support/jasmine.yml
+
+src_files:
+  - "app/assets/javascripts/**/*.js"
+  - "spec/javascripts/**/*.js"
+  - "vendor/assets/javascripts/jasmine-jquery.js"
